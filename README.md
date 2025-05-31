@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RUST
 - 📫 How to reach me       Gmail- fatrat464@gmail.com    insta- GVXKI   Discord- fatrat0_0
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am obsessed wit hgays
+- ⚡ Fun fact: I am obsessed with gays
 
 <!---
 GVXKI/GVXKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
